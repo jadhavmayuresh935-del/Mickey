@@ -1,0 +1,6 @@
+{
+  "name": "InstaFlow",
+  "description": "Instagram Management SaaS & Creator Studio for scheduling posts, visual grid curation, analytics, unified inbox, and multi-account management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
